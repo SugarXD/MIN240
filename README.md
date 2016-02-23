@@ -1,5 +1,5 @@
 # MIN240
-Repositroy for MIN 240 - Introduction to Interactive Media at NKU.
+Repository for MIN 240 - Introduction to Interactive Media at NKU.
 
 ### Description Of Course:
 Note: Strikethroughs show where this specific course section has been modified from its course catalog description.
